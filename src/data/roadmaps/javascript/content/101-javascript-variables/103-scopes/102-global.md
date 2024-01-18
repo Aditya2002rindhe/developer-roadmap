@@ -5,3 +5,4 @@ Variables declared Globally (outside any function) have Global Scope. Global var
 Visit the following resources to learn more:
 
 - [JavaScript Scope](https://www.w3schools.com/js/js_scope.asp)
+- [JavaScript Scope - MDN Docs](https://developer.mozilla.org/en-US/docs/Glossary/Scope)
